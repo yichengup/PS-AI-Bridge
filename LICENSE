@@ -1,6 +1,49 @@
+License for PS AI Bridge / PS AI Bridge 许可协议
+
+================================================================================
+English
+================================================================================
+
+This software is licensed under the MIT License with the following additional terms:
+
+1. Grant of Rights
+
+- Plugin Use and Modification:
+  Users are granted the right to use and modify PS AI Bridge for personal or commercial purposes, including integrating it with ComfyUI, RunningHub, OpenAI, Google, or other supported AI backends. However, any improvements or substantive changes intended for public release should be shared with the community and be open for integration into the main project.
+
+- Plugin Modifications and Distribution:
+  Users are allowed to fork and modify this plugin, but any changes or updates intended for upstream inclusion should be submitted as merge requests (pull requests) to the original repository for review and potential inclusion in future versions. Users are not permitted to sell or distribute modified versions of this plugin without explicit written consent from yichengup. Any collaboration or partnership for commercial redistribution must be negotiated separately.
+
+- Third-Party Services and Workflows:
+  This plugin acts as a bridge to external AI services and workflows. Users are responsible for complying with the terms of service, API usage policies, and licensing requirements of each third-party provider they connect to (including but not limited to Adobe Photoshop, ComfyUI, RunningHub, OpenAI, and Google).
+
+2. Use of Generated Images
+
+- Commercial Use:
+  The usage of images generated through this plugin is governed by the models, checkpoints, APIs, and services used to produce them. Users are solely responsible for ensuring compliance with the licenses and terms associated with those providers. yichengup holds no liability regarding the commercial or non-commercial use of generated images, provided that such use is consistent with the terms of the applicable model and service providers.
+
+3. Ownership and Contributions
+
+- Ownership:
+  The original author retains ownership of the plugin code and all associated intellectual property. Contributions to the project, including submitted pull requests, are granted under the same license as the original project.
+
+4. Disclaimer
+
+This software is provided "as-is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+5. Additional Terms
+
+Any additional terms that are not covered by this license must be negotiated separately with yichengup.
+
+yichengup
+
+Date: 2026-06-02
+
+---
+
 MIT License
 
-Copyright (c) 2026 yicheng
+Copyright (c) 2026 yichengup
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -15,7 +58,62 @@ copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+================================================================================
+中文
+================================================================================
+
+本软件在 MIT 许可证基础上，适用以下附加条款：
+
+1. 授权范围
+
+- 插件使用与修改：
+  用户有权将 PS AI Bridge 用于个人或商业用途，并对其进行修改，包括与 ComfyUI、RunningHub、OpenAI、Google 或其他受支持的 AI 后端集成。但若改动拟公开发布，相关改进或实质性变更应回馈社区，并可供主项目集成。
+
+- 插件修改与分发：
+  用户可 fork 并修改本插件；拟合并至上游的变更或更新，应以合并请求（Pull Request）形式提交至原仓库，供审阅并可能纳入后续版本。未经 yichengup 书面明确同意，用户不得出售或分发本插件的修改版本。任何商业再分发方面的合作或伙伴关系须另行协商。
+
+- 第三方服务与工作流：
+  本插件作为外部 AI 服务与工作流的桥接工具。用户须自行遵守所连接各第三方服务商的服务条款、API 使用政策及许可要求（包括但不限于 Adobe Photoshop、ComfyUI、RunningHub、OpenAI 与 Google）。
+
+2. 生成图片的使用
+
+- 商业使用：
+  通过本插件生成的图片之使用，受实际用于生成的模型、Checkpoint、API 及服务之条款约束。用户须自行确保遵守相关提供商的许可与条款。yichengup 对生成图片的商业或非商业使用不承担任何责任，前提是该等使用符合相应模型与服务提供商的条款。
+
+3. 所有权与贡献
+
+- 所有权：
+  原作者保留对本插件代码及全部相关知识产权的所有权。对本项目的贡献（包括提交的 Pull Request）均按与本项目相同的许可条款授权。
+
+4. 免责声明
+
+本软件按「原样」提供，不附带任何明示或默示担保，包括但不限于适销性、特定用途适用性及不侵权之担保。在任何情况下，作者均不对因本软件或使用、交易本软件而产生的任何索赔、损害或其他责任承担责任，无论该等责任基于合同、侵权或其他事由。
+
+5. 附加条款
+
+本许可未涵盖的任何附加条款，须与 yichengup 另行协商确定。
+
+yichengup
+
+日期：2026-06-02
+
+---
+
+MIT 许可证
+
+版权所有 (c) 2026 yichengup
+
+特此免费授予任何获得本软件及相关文档文件（「软件」）副本的人不受限制地处置该软件的权利，
+包括不受限制地使用、复制、修改、合并、发布、分发、再许可和/或出售该软件副本，
+以及再授权被配发了本软件的人如上的权利，但须符合以下条件：
+
+上述版权声明和本许可声明应包含在该软件的所有副本或重要部分中。
+
+本软件按「原样」提供，不提供任何形式的明示或默示担保，包括但不限于对适销性、特定用途适用性和
+非侵权性的担保。在任何情况下，作者或版权持有人均不对任何索赔、损害或其他责任负责，
+无论这些追责来自合同、侵权或其它行为中，还是产生于、源于或与软件或软件的使用或其它处置有关。
