@@ -73,7 +73,11 @@ Photoshop 内的 AI 图像生成面板，连接多种 AI 后端，生成结果�
 | 版本 | v1.2.0 |
 | 微信 | DLONG189one |
 | QQ | 3260561522 |
-
+#### 如有问题或建议，欢迎通过微信 / QQ 联系作者。
 ---
+## 如果您从本项目中受益，可以打赏赞助支持作者
+<img width="1536" height="659" alt="a3" src="https://github.com/user-attachments/assets/28ced9e1-18e6-498c-b1fb-cc0499587585" />
 
-如有问题或建议，欢迎通过微信 / QQ 联系作者。
+
+
+
