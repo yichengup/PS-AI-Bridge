@@ -8,8 +8,8 @@ Photoshop 内的 AI 图像生成面板，连接多种 AI 后端，生成结果�
 
 1. 将整个 `PS_AI_Bridge` 文件夹复制到 Photoshop 插件目录，例如：
    ```
-   C:\Program Files\Adobe\Adobe Photoshop 2026\Plug-ins\External\
-   ```
+   C:\Program Files\Adobe\Adobe Photoshop 2026\Plug-ins\
+   
 2. 重启 Photoshop，或在 **UXP Developer Tool** 中重新加载插件。
 3. 菜单 **窗口 → 扩展功能（插件）→ PS AI Bridge** 打开面板。
 
